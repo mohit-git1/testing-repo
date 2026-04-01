@@ -7,3 +7,4 @@ function deleteTodo(index){
 }
 addTodo("Buy Soda")
 deleteTodo(5)console.log(testing the sentinel by sending PR)
+console.log(testing the sentinel by sending PR)
