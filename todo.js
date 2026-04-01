@@ -6,4 +6,4 @@ function deleteTodo(index){
     todos[index] =null
 }
 addTodo("Buy Soda")
-deleteTodo(5)
+deleteTodo(5)console.log(testing the sentinel by sending PR)
